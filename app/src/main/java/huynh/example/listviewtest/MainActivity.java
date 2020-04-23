@@ -71,7 +71,7 @@ public class MainActivity extends AppCompatActivity {
         //ádfasdfasdfasdfsa
 //ádfasdfasdf
 
-
+//sssssssssssssssssssssssssssssssssssssssssssssss
         dialog.show();
 
     }
