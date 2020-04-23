@@ -13,7 +13,7 @@ import android.widget.ListView;
 import android.widget.Toast;
 
 import java.util.ArrayList;
-//aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+
 public class MainActivity extends AppCompatActivity {
     Button Login;
     Intent intent = new Intent(MainActivity.this,DangNhap.class);
@@ -67,7 +67,8 @@ public class MainActivity extends AppCompatActivity {
 
 
 
-
+//ádasdfsdfasdf
+        //ádfasdfasdfasdfsa
 
 
 
